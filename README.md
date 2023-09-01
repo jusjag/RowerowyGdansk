@@ -19,17 +19,17 @@ Na chwilę obecną zakładam, że projekt był jednorazowy, nie wykluczam jednak
 # 1. Dane źródłowe
 ## 1.1. Źródło danych dot. liczby przejazdów
 W momencie tworzenia projektu (lipiec-sierpień 2023) w Gdańsku znajduje się 29 liczników rowerowych, które stopniowo pojawiały się w mieście od października 2013.<br>
-Wszystkie dane dot. zarejestrowanych przejazdów są udostępniane publicznie na stronie [https://rowerowygdansk.pl/](https://rowerowygdansk.pl/pomiar-ruchu) w formie plików .xls zawierających dzienne i miesięczne statystyki od momentu instalacji licznika.<br><br>
+Wszystkie dane dot. zarejestrowanych przejazdów są udostępniane publicznie na stronie [https://rowerowygdansk.pl/](https://rowerowygdansk.pl/pomiar-ruchu) w formie plików .xls.
+<br><br>
 Warto pamiętać, że zamontowane w drogach rowerowych czujniki zliczają jedynie przejazdy bez identyfikacji roweru, więc jeden rowerzysta w czasie jednego przejazdu mógł zostać uwzględniony przez kilka liczników.<br>
 W raporcie wykorzystałam dane od października 2013 do lipca 2023.
-<br>
-Część plików zaimportowałam do PowerQuery bezpośrednio ze strony internetowej. Niestety w przypadku znacznej części plików napotkałam niezidentyfikowany problem z pobieraniem przez PowerQuery nagłówków tabeli, co wymagało wstępnej edycji danych w Excelu. 
 <br><br>
 Dla każdego licznika dostępny jest arkusz z tabelą danych za poszczególne miesiące i lata oraz prostym wykresem.
 Dostępne są również dane za poszczególne dni, jednak z uwagi na wyjątkowo nieprzystępną formę ich publikacji postanowiłam skupić się na danych miesięcznych.
 <br><br>
 ![Widok w Excelu](Screenshots/RG01_Excel.png)
 <br><br>
+Część plików zaimportowałam do PowerQuery bezpośrednio ze strony internetowej. Niestety w przypadku znacznej części plików napotkałam niezidentyfikowany problem z pobieraniem przez PowerQuery nagłówków tabeli, co wymagało wstępnej edycji danych w Excelu.<br>
 Po załadowaniu do PowerQuery tabela wygląda następująco:<br><br>
 ![Widok w PowerQuery](Screenshots/RG02_PQ.png)
 <br><br>
