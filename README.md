@@ -19,7 +19,7 @@ Na chwilę obecną zakładam, że projekt był jednorazowy, nie wykluczam jednak
 # 1. Dane źródłowe
 ## 1.1. Źródło danych dot. liczby przejazdów
 W momencie tworzenia projektu (lipiec-sierpień 2023) w Gdańsku znajduje się 29 liczników rowerowych, które stopniowo pojawiały się w mieście od października 2013.<br>
-Wszystkie dane dot. zarejestrowanych przejazdów są udostępniane publicznie na stronie [https://rowerowygdansk.pl/](https://rowerowygdansk.pl/pomiar-ruchu) w formie plików .xls zawierających dzienne i miesięczne statystyki od momentu instalacji licznika.<br>
+Wszystkie dane dot. zarejestrowanych przejazdów są udostępniane publicznie na stronie [https://rowerowygdansk.pl/](https://rowerowygdansk.pl/pomiar-ruchu) w formie plików .xls zawierających dzienne i miesięczne statystyki od momentu instalacji licznika.<br><br>
 Warto pamiętać, że zamontowane w drogach rowerowych czujniki zliczają jedynie przejazdy bez identyfikacji roweru, więc jeden rowerzysta w czasie jednego przejazdu mógł zostać uwzględniony przez kilka liczników.<br>
 W raporcie wykorzystałam dane od października 2013 do lipca 2023.
 <br>
