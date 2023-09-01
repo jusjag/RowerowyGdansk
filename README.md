@@ -1,5 +1,7 @@
 # Rowerowy Gdańsk - analiza danych z liczników rowerowych za lata 2013-2023
 
+![grafika wstępna](Screenshots/RG_GitHub_logo.png)
+
 Zobacz gotowy raport: <br>
 [Tableau Public](https://public.tableau.com/app/profile/justyna5640/viz/RowerowyGdask2013-2023/RowerowyGdansk)
 
