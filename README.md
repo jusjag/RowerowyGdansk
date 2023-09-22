@@ -71,7 +71,7 @@ Z uwagi na dużą ilość zapytań wymagających praktycznie identycznych czynno
 W tym momencie musiałam wziąć pod uwagę możliwości mojego komputera, któremu przetwarzanie dokumentu z tak dużą ilością zapytań zajmowało zbyt wiele czasu. Skopiowałam więc surowe wartości ze stworzonej w PowerQuery zbiorczej tabeli do nowego, pustego pliku, i pracowałam już tylko na nim.
 
 # 3. Tableau Public
-Do stworzenia raportu wybrałam Tableau Public, ponieważ narzędzie to umożliwia bezpłatne upublicznienie stworzonego raportu w formie interaktywnej.<br><br>
+Do stworzenia raportu wybrałam Tableau Public, ponieważ umożliwia bezpłatne upublicznienie stworzonego raportu w formie interaktywnej.<br><br>
 ![tableau](Screenshots/Tableau1.png)<br><br>
 ![tableau](Screenshots/Tableau2.png)<br><br>
 ![tableau](Screenshots/Tableau3.png)<br><br>
@@ -81,4 +81,5 @@ Do stworzenia raportu wybrałam Tableau Public, ponieważ narzędzie to umożliw
 # 4. Plany na przyszłość
 * stworzenie podobnego raportu z wykorzystaniem Power BI
 * wykorzystanie narzędzi statystycznych do uzupełnienia raportu o brakujące dane (zaniżone z powodu nieprawidłowej kalibracji licznika lub brakujących z powodu remontów/awarii)
-* być może również stworzenie raportu z wykorzystaniem danych dziennych zamiast miesięcznych
+* być może również stworzenie raportu z wykorzystaniem danych dziennych zamiast miesięcznych<br><br>
+Dziękuję za uwagę! :)
