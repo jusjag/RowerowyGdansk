@@ -35,9 +35,9 @@ Po załadowaniu do PowerQuery tabela wygląda następująco:<br><br>
 <br><br>
 
 ## 1.2. Brakujące / niepełne dane
-Pas Nadmorski: z powodu nieprawidłowej kalibracji licznika dane za okres od września 2020 do lutego 2022 są zaniżone;
-Karczemki: transfer danych zawieszony za okres luty 2022 - czerwiec 2023;
-Żołnierzy Wyklętych: z powodu awarii brak danych za okres od czerwca do października;
+Pas Nadmorski: z powodu nieprawidłowej kalibracji licznika dane za okres od września 2020 do lutego 2022 są zaniżone;<br>
+Karczemki: transfer danych zawieszony za okres luty 2022 - czerwiec 2023;<br>
+Żołnierzy Wyklętych: z powodu awarii brak danych za okres od czerwca do października;<br>
 Stryjewskiego: 
 - z powodu przebudowy ulicy brak danych za grudzień 2018 - wrzesień 2020,
 - z powodu awarii licznika brak danych za okres od marca do czerwca 2023.
